@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MvvmApplication</string>
+    <string name="demoText">Hello this is the headline</string>
 </resources>
